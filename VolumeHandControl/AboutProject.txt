@@ -1,0 +1,2 @@
+This Project helped me to have an hands on Experience in OpenCV library and OS-Script module helps to write scripts for mac OS.
+I have refered different youtube channels to write this code, this code is specific to Mac OS, which is Unique as far i know.
